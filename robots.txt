@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shreyanshbarad3.github.io/techfast2026/sitemap.xml
